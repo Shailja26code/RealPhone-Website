@@ -20,10 +20,10 @@
     align-items: center;
 }
 .logo{
-    flex-basis: 20%;
+    flex-basis: 10%;
 }
 .logo-img{
-    width: 50px;
+    width: 150px;
 }
 .nav-links{
     flex: 1;
@@ -35,6 +35,45 @@
     margin: 0 20px;
 }
 .nav-links ul li a{
-    list-style: none;
-    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+}
+.information{
+    width: 1000px;
+    height: 1000px;
+    position: absolute;
+    top: 50%;
+    left: -10%;
+    transform: translateY(-50%)
+}
+#circle{
+    width: 1000px;
+    height: 1000px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 50%;
+    background: #ccc;
+}
+.feature IMG{
+    width: 70px;
+}
+.feature{
+    position: absolute;
+}
+.one{
+    top: 450px;
+    right: 50px;
+}
+.two{
+    top: 150px;
+    right: 350px;
+}
+.three{
+    bottom: 450px;
+    left: 50px;
+}
+.four{
+    bottom: 150px;
+    right: 350px;
 }
