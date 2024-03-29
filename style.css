@@ -11,7 +11,7 @@
     background: linear-gradient(to right, #9c27b0, #8ecdff);
 
 }
-#nav{
+.nav{
     width: 80;
     position: sticky;
     margin: 20px auto;
@@ -32,7 +32,7 @@
 .nav-links ul li{
     list-style: none;
     display: inline-block;
-    margin: 0 1%;
+    margin: 0 20px;
 }
 .nav-links ul li a{
     color: #fff;
@@ -52,12 +52,12 @@
     position: absolute;
     top: 0;
     left: 0;
-    border-radius: 50%;
+    border-radius: 30%;
     transform: rotate(0deg);
     transition: 1s;
 }
-.feature IMG{
-    width: 70px;
+.feature img{
+    width: 50px;
 }
 .feature{
     position: absolute;
@@ -65,23 +65,23 @@
     color: #fff;
 }
 .feature div{
-    margin-left: 30px;
+    margin-left: 10px;
 }
 .feature div p{
-    margin-top: 8px;
+    margin-top: 5px;
 }
 .one{
     top: 450px;
-    right: 50px;
+    right: 100px;
 }
 .two{
-    top: 150px;
-    left: 350px;
+    top: 250px;
+    right: 350px;
     transform: rotate(-90deg);
 }
 .three{
-    bottom: 450px;
-    left: 50px;
+    bottom: 0px;
+    right: 250%;
     transform: rotate(-180deg);
 }
 .four{
@@ -90,16 +90,16 @@
     transform: rotate(-270deg);
 }
 .mobile{
-    width: 200px;
+    width: 150px;
     position: absolute;
     top: 50%;
-    left: 35%;
+    left: 40%;
     transform: translateY(-50%);
     z-index: 1;
 }
 .controls{
     position: absolute;
-    right: 10%;
+    right: -10%;
     top: 50%;
     transform: translateY(-50%);
     text-align: center;
@@ -122,9 +122,9 @@
     height: 0;
     border-top: 500px solid #fff;
     border-right: 500px solid transparent;
-    border-bottom: 500px solid #fff;
+    border-bottom: 500px solid #482b2b;
     border-left: 500px solid #fff;
     position: absolute;
     left: 0;
-    right: 0;
+    top: 0;
   }
