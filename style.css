@@ -103,3 +103,12 @@
     margin: 15px 0;
     color: #fff;
 }
+#upbtn{
+  width: 15px;
+  cursor: pointer;
+}
+#downbtn{
+    width: 15px;
+    cursor: pointer;
+    transform: rotate(180deg);
+  }
