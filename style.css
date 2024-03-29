@@ -108,11 +108,11 @@
     margin: 15px 0;
     color: #fff;
 }
-#upbtn{
+#upBtn{
   width: 15px;
   cursor: pointer;
 }
-#downbtn{
+#downBtn{
     width: 15px;
     cursor: pointer;
     transform: rotate(180deg);
