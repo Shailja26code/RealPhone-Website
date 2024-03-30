@@ -90,7 +90,7 @@
     transform: rotate(-270deg);
 }
 .mobile{
-    width: 150px;
+    width: 100px;
     position: absolute;
     top: 50%;
     left: 40%;
