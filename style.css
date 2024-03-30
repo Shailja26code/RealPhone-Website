@@ -43,7 +43,7 @@
     height: 1000px;
     position: absolute;
     top: 50%;
-    left: 0;
+    left: -10;
     transform: translateY(-50%);
 }
 #circle{
@@ -72,20 +72,20 @@
 }
 .one{
     top: 450px;
-    right: 150px;
+    right: 200px;
 }
 .two{
     top: 250px;
-    right: 350px;
+    right: 450px;
     transform: rotate(-90deg);
 }
 .three{
-    bottom: 500px;
-    right: 600px;
+    bottom: 250px;
+    right: 150px;
     transform: rotate(-180deg);
 }
 .four{
-    bottom: 250px;
+    bottom: 450px;
     right: 350px;
     transform: rotate(-270deg);
 }
