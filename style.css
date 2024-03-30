@@ -71,21 +71,21 @@
     margin-top: 5px;
 }
 .one{
-    top: 450px;
+    top: 465px;
     right: 200px;
 }
 .two{
     top: 250px;
-    right: 450px;
+    right: 465px;
     transform: rotate(-90deg);
 }
 .three{
     bottom: 250px;
-    left: 450px;
+    left: 465px;
     transform: rotate(-270deg);
 }
 .four{
-    bottom: 450px;
+    bottom: 465px;
     left: 200px;
     transform: rotate(-180deg);
 }
