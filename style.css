@@ -43,8 +43,8 @@
     height: 1000px;
     position: absolute;
     top: 50%;
-    left: -10%;
-    transform: translateY(-50%)
+    left: 0;
+    transform: translateY(-50%);
 }
 #circle{
     width: 1000px;
@@ -72,7 +72,7 @@
 }
 .one{
     top: 450px;
-    right: 100px;
+    right: 90px;
 }
 .two{
     top: 250px;
@@ -80,8 +80,8 @@
     transform: rotate(-90deg);
 }
 .three{
-    bottom: 0px;
-    right: 250%;
+    bottom: 500px;
+    right: 600px;
     transform: rotate(-180deg);
 }
 .four{
@@ -99,7 +99,7 @@
 }
 .controls{
     position: absolute;
-    right: -10%;
+    right: 10%;
     top: 50%;
     transform: translateY(-50%);
     text-align: center;
