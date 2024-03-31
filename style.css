@@ -72,28 +72,28 @@
 }
 .one{
     top: 450px;
-    right: 200px;
+    right: 230px;
 }
 .two{
-    top: 250px;
+    top: 230px;
     right: 450px;
     transform: rotate(-90deg);
 }
 .three{
-    bottom: 250px;
+    bottom: 230px;
     left: 450px;
     transform: rotate(-270deg);
 }
 .four{
     bottom: 450px;
-    left: 200px;
+    left: 230px;
     transform: rotate(-180deg);
 }
 .mobile{
     width: 90px;
     position: absolute;
     top: 50%;
-    left: 42%;
+    left: 45%;
     transform: translateY(-50%);
     z-index: 1;
 }
