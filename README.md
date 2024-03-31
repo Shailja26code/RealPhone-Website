@@ -1,10 +1,10 @@
-RealPhone
+# RealPhone
 
-https://github.com/Shailja26code/RealPhone-Website
+## https://github.com/Shailja26code/RealPhone-Website
 
 
 
-Created  **Webpage** for phone using **HTML**,**CSS** and **JS**
+#### Created  **Webpage** for phone using **HTML**,**CSS** and **JS**
 
 
 
