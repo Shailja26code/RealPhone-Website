@@ -71,26 +71,26 @@
     margin-top: 5px;
 }
 .one{
-    top: 465px;
+    top: 450px;
     right: 200px;
 }
 .two{
     top: 250px;
-    right: 465px;
+    right: 450px;
     transform: rotate(-90deg);
 }
 .three{
     bottom: 250px;
-    left: 465px;
+    left: 450px;
     transform: rotate(-270deg);
 }
 .four{
-    bottom: 465px;
+    bottom: 450px;
     left: 200px;
     transform: rotate(-180deg);
 }
 .mobile{
-    width: 100px;
+    width: 90px;
     position: absolute;
     top: 50%;
     left: 42%;
